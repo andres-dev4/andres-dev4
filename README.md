@@ -10,6 +10,7 @@
 - Designing and executing **automated tests**, including load testing with **K6**.
 - Creating advanced reports and data processing with **Python** and **pandas**.
 - Automating tasks through **Bash scripts** and **Python**
+- Creating and managing **professional packages**, such as pip packages, hosted in Artifactory repositories like **JFrog**.
 - Resolving **vulnerabilities** using tools like **Trivy**, **Pylint**, and **APPIRO**.
 - **Troubleshooting** and providing support for incidents related to software, databases, and infrastructure.
 - Collaborating effectively with multidisciplinary teams to integrate **machine learning** into production systems.
