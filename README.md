@@ -1,4 +1,23 @@
 ## Hi there 👋
+# 👨‍💻 Andrés Antonio | System Engineer | DevOps & MLOps Specialist | Software Enginner
+
+🚀 Passionate about **automating processes**, **optimizing infrastructures**, and **building scalable solutions**. 
+
+## 🛠 Expertise
+- Developing and implementing CI/CD pipelines with **GitHub Actions**.
+- Managing deployments in **Kubernetes** and cloud environments with **Azure**.
+- Backend development using **Django**, **Redis**, **.NET**, **Kafka**, **C#**, and **Python**.
+- Designing and executing **automated tests**, including load testing with **K6**.
+- Creating advanced reports and data processing with **Python** and **pandas**.
+- Automating tasks through **Bash scripts**, **crontabs**, and **GitHub Actions**.
+- Collaborating effectively with multidisciplinary teams to integrate **machine learning** into production systems.
+
+## 💡 About Me
+I highly value **teamwork** and **interpersonal skills**, essential for coordinating with diverse teams, solving complex problems, and achieving shared goals.
+
+## 📬 Contact
+Always open to new opportunities, ideas, and collaborations on innovative projects.
+
 
 <!--
 **andres-dev4/andres-dev4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
