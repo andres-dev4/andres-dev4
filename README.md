@@ -1,5 +1,5 @@
-## Hi there 👋
-# 👨‍💻 Andrés Antonio | System Engineer | DevOps & MLOps Specialist | Software Enginner
+# 👨‍💻 Andrés Antonio 
+# DevOps & MLOps Specialist | Backend Software Engineer
 
 🚀 Passionate about **automating processes**, **optimizing infrastructures**, and **building scalable solutions**. 
 
