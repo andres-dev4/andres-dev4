@@ -4,12 +4,12 @@
 🚀 Passionate about **automating processes**, **optimizing infrastructures**, and **building scalable solutions**. 
 
 ## 🛠 Expertise
-- Developing and implementing CI/CD pipelines with **GitHub Actions**.
+- Developing and implementing CI/CD pipelines with **GitHub Actions**, **Jenkins**,**Azure DevOps**.
 - Managing deployments in **Kubernetes** and cloud environments with **Azure**.
 - Backend development using **Django**, **Redis**, **.NET**, **Kafka**, **C#**, and **Python**.
 - Designing and executing **automated tests**, including load testing with **K6**.
 - Creating advanced reports and data processing with **Python** and **pandas**.
-- Automating tasks through **Bash scripts**, **crontabs**, and **GitHub Actions**.
+- Automating tasks through **Bash scripts** and **Python**
 - Collaborating effectively with multidisciplinary teams to integrate **machine learning** into production systems.
 
 ## 💡 About Me
